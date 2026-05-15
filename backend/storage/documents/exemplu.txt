@@ -1,0 +1,11 @@
+Retrieval-Augmented Generation (RAG) este o tehnică ce combină
+modelele de limbaj mari cu sisteme de căutare.
+
+Un sistem RAG caută informații relevante dintr-o bază de date
+sau colecție de documente și le oferă modelului ca context.
+
+Avantajul principal al RAG este reducerea halucinațiilor
+și posibilitatea de a răspunde pe baza unor surse concrete.
+
+RAG este folosit frecvent în chatboți, sisteme de suport
+și aplicații enterprise.
