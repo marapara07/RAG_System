@@ -219,9 +219,6 @@ Ask questions related to the uploaded documents.
 
 ### General Questions
 
-```text
-What is RAG?
-```
 
 ```text
 Ce faci?
